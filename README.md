@@ -1,1 +1,1 @@
-hoi
+ [label](http://example.com)
